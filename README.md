@@ -60,6 +60,38 @@ http://localhost:5155/swagger/index.html
 | PUT    | /api/todoitems/{id} | Actualiza una tarea existente |
 | DELETE | /api/todoitems/{id} | Elimina una tarea             |
 
+## 📸 Ejemplos de Uso
+
+### 1. Obtener todas las tareas (GET)
+
+![GET Todos](images/get.png)
+Respuesta exitosa mostrando la lista de todas las tareas.
+
+### 2. Crear una nueva tarea (POST)
+
+![POST Todo](images/post.png)
+Creación exitosa de una nueva tarea con respuesta 201 Created.
+
+### 3. Obtener una tarea específica (GET by ID)
+
+![GET Todo by ID](images/get_todo_by_id.png)
+Obtención exitosa de una tarea específica por su ID.
+
+### 4. Eliminar una tarea (DELETE)
+
+![DELETE Todo](images/delete.png)
+Eliminación exitosa de una tarea con respuesta 204 No Content.
+
+### 5. Actualizar una tarea (PUT)
+
+![PUT Todo](images/put.png)
+Actualización exitosa de una tarea existente.
+
+### 6. Base de Datos SQLite
+
+![SQLite Database](images/sqlite_db.png)
+Vista de los registros en la base de datos SQLite.
+
 ## 🗄️ Estructura de la Base de Datos
 
 La base de datos SQLite (`todo.db`) contiene la siguiente tabla:
