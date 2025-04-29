@@ -98,8 +98,8 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 ## ✨ Autor
 
-Tu nombre - [@tutwitter](https://twitter.com/tutwitter)
+Tu nombre - [@Kris](https://www.youtube.com/watch?v=xvFZjo5PgG0&pp=ygUIcmlja3JvbGzSBwkJhAkBhyohjO8%3D)
 
 ---
 
-⌨️ con ❤️ por [Tu Nombre](https://github.com/tusername)
+⌨️ con ❤️ por [Cristian Gutierrez](https://github.com/KRis20F)
